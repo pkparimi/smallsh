@@ -6,7 +6,7 @@ To create and run the program, while in the directory that contains the associat
 
 #### Introduction
 
-Smallsh is an implementtion of a subset of features of well-known shells, such as bash. It:
+Smallsh is an implementation of a subset of features of well-known shells, such as bash. It:
 
 1. Provides a prompt for running commands
 2. Handle sblank lines and comments, which are lines beginning with the `#` character
