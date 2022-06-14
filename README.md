@@ -9,7 +9,7 @@ To create and run the program, while in the directory that contains the associat
 Smallsh is an implementation of a subset of features of well-known shells, such as bash. It:
 
 1. Provides a prompt for running commands
-2. Handle sblank lines and comments, which are lines beginning with the `#` character
+2. Handles blank lines and comments, which are lines beginning with the `#` character
 3. Provides expansion for the variable $$
 4. Executes 3 commands `exit`, `cd`, and `status` via code built into the shell
 5. Executes other commands by creating new processes using a function from the `exec` family of 6. functions
